@@ -1,0 +1,6 @@
+
+1. "git clone https://github.com/pawankallem/pavan-kallem-reactjs-practival.git" clone Git Repository.
+
+2. "npm install" inside pavan-kallem-reactjs-practival folder.
+
+3. "npm run dev" to start the client.
